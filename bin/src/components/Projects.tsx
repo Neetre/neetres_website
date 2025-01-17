@@ -5,11 +5,11 @@ const Projects = () => {
   const projects = [
     {
       title: 'Project One',
-      description: 'A full-stack web application built with React and Node.js',
+      description: 'A receipt management system',
       image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80',
-      technologies: ['React', 'Node.js', 'MongoDB'],
-      githubUrl: 'https://github.com',
-      liveUrl: 'https://example.com'
+      technologies: ['React', 'Node.js', 'Python', 'Groq'],
+      githubUrl: 'https://github.com/Neetre/receipts',
+      liveUrl: 'https://rc.figliolo.it'
     }
   ];
 
