@@ -20,13 +20,13 @@ const Header = () => {
 
           {/* Social Links */}
           <div className="hidden md:flex items-center space-x-4">
-            <a href="https://github.com" className="text-gray-700 hover:text-gray-900">
+            <a href="https://github.com/Neetre" className="text-gray-700 hover:text-gray-900">
               <Github className="w-5 h-5" />
             </a>
-            <a href="https://linkedin.com" className="text-gray-700 hover:text-gray-900">
+            <a href="https://linkedin.com/in/mattia-braga--" className="text-gray-700 hover:text-gray-900">
               <Linkedin className="w-5 h-5" />
             </a>
-            <a href="mailto:your.email@example.com" className="text-gray-700 hover:text-gray-900">
+            <a href="mailto:mattiabraga2006@gmail.com" className="text-gray-700 hover:text-gray-900">
               <Mail className="w-5 h-5" />
             </a>
           </div>
