@@ -19,7 +19,7 @@ const Contact = () => {
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     try {
-      const response = await fetch('http://localhost:11000/submit-contact', {
+      const response = await fetch('http://localhost:8003/submit-contact', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
