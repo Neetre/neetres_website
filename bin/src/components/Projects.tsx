@@ -17,12 +17,12 @@ const Projects = () => {
       image: 'https://images.inc.com/uploaded_files/image/1920x1080/getty_503426092_342208.jpg',
       technologies: ['React', 'Tailwind CSS', 'Python', 'FastAPI'],
       githubUrl: 'https://github.com/Neetre/neetres_website',
-      liveUrl: 'https://ne.figliolo.it'
+      liveUrl: 'https://nee.figliolo.it'
     },
     {
       title: 'KoLama',
       description: 'A finetuned language model for English to Korean translation',
-      image: 'https://cdn-lfs.hf.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/9cf16f4f32604eaf76dabbdf47701eea5a768ebcc7296acc1d1758181f71db73?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.png%3B+filename%3D"hf-logo.png"%3B&response-content-type=image%2Fpng&Expires=1737481986&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzQ4MTk4Nn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzljZjE2ZjRmMzI2MDRlYWY3NmRhYmJkZjQ3NzAxZWVhNWE3NjhlYmNjNzI5NmFjYzFkMTc1ODE4MWY3MWRiNzM~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=t46~Lxqn2GVHgtXeExSSsEQCQAKX8NYxJh8bomKija64ZlUNccjlF0jgsND6bVcbJisWiZ0YZedmYg~-xyZNhzKdome-vOmemaRBx~GhfZNqtENlL5Tb4i6up4-BgQ-DalgxZMKnRDVLJLqKfmu-A5atccsAkzJ9mi5bJBrcDjkgs6EArmysCM3jYjdb1qBX9Gmy2kDkXfKYPyg7YnIRp9qzW4Y2cBucPfHRnt50xiG-hAQie2T7YhiPPtBDXw9SitkJ-3IbhsnJ3qewdS-fj3p-8A5IVTl1-PR5VHnKQMDnOC2JETRnfbuawA9-PS2Mj-a7KoWdADDSjZDIgPZF-g__&Key-Pair-Id=K3RPWS32NSSJCE',
+      image: 'https://www.searchenginejournal.com/wp-content/uploads/2023/04/hugging-face-huggingchat-644a286dee829-sej.png',
       technologies: ['Python', 'Hugging Face', 'Unsloth', 'Llama', 'Transformers'],
       githubUrl: 'https://github.com/Neetre/translator',
       liveUrl: 'https://huggingface.co/Neetree/KoLama'

@@ -1,10 +1,11 @@
 # neetres_website
 
-This is the source code for my personal website. It is built using React for the front-end and Python FastAPI for the back-end.
+This is the source code for my personal website. It is built using React for the front-end, Python FastAPI for the back-end, SQLite as DBMS for my database.
+I've tried to keep the website as much dry as possible since I don't like overbuilt websites.
 
 The next step would be adding a chatbot to the website, in order to answer some frequently asked questions.
 
-Visit the website [here](https://ne.figliolo.it/).
+Visit the website [here](https://nee.figliolo.it/).
 
 ## Features
 
