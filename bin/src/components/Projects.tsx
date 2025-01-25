@@ -9,7 +9,7 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80',
       technologies: ['React', 'Node.js', 'Python', 'Groq'],
       githubUrl: 'https://github.com/Neetre/receipts',
-      liveUrl: 'https://rc.figliolo.it'
+      liveUrl: 'http://rc.figliolo.it'
     },
     {
       title: 'Portfolio',
@@ -17,7 +17,7 @@ const Projects = () => {
       image: 'https://images.inc.com/uploaded_files/image/1920x1080/getty_503426092_342208.jpg',
       technologies: ['React', 'Tailwind CSS', 'Python', 'FastAPI'],
       githubUrl: 'https://github.com/Neetre/neetres_website',
-      liveUrl: 'https://nee.figliolo.it'
+      liveUrl: 'http://nee.figliolo.it'
     },
     {
       title: 'KoLama',

@@ -5,7 +5,7 @@ I've tried to keep the website as much dry as possible since I don't like overbu
 
 The next step would be adding a chatbot to the website, in order to answer some frequently asked questions.
 
-Visit the website [here](https://nee.figliolo.it/).
+Visit the website [here](http://nee.figliolo.it/).
 
 ## Features
 
